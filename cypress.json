@@ -1,0 +1,18 @@
+{
+
+    "baseURL":"https://wikipedia.org",
+    "defaultCommandTimeout": 6000,
+    "pageLoadTimeout": 4000,
+    "viewportHeight": 1028,
+    "viewportWidth": 1920,
+    "watchForFileChanges":false,
+    "chromeWebSecurity":false,
+
+    "env": {
+        "username": "",
+        "password": ""
+      },
+      
+        "projectId": "vhfz7d"
+    }
+    

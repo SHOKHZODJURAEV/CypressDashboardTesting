@@ -1,0 +1,15 @@
+{
+  "name": "cypressdemopractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "TeslaModelS": "npx cypress run --record --key 15775097-ebc8-4e49-a9fc-f11e28fce43a  --spec 'cypress/integration/Day03/tesla.spec.js' "
+  },
+  "author": "Shawn",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
