@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "TeslaModelS": "npx cypress run --record --key 15775097-ebc8-4e49-a9fc-f11e28fce43a  --spec 'cypress/integration/Day03/tesla.spec.js' "
+    "TeslaModelS": "npx cypress run --record --key 15775097-ebc8-4e49-a9fc-f11e28fce43a  --spec 'cypress/integration/Day03/tesla.spec.js' ",
+    "githubPage": "npx cypress run --record --key 15775097-ebc8-4e49-a9fc-f11e28fce43a  --spec 'cypress/integration/Day04/Udemy.spec.js' "
   },
   "author": "Shawn",
   "license": "ISC",
